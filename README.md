@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I’m Rebin Ravindran 👋
 
-<!--
-**rebinravindran/rebinravindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Full Stack Developer**  
+Django • Django REST Framework • React • REST APIs
 
-Here are some ideas to get you started:
+📍 Kannur, Kerala, India  
+📧 rebinravindran534@gmail.com  
+🔗 https://www.linkedin.com/in/rebinravindran/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Professional Summary
+
+Python Full Stack Developer with hands-on experience in building **secure, scalable, and performance-oriented web applications** using Django, Flask, REST APIs, and modern frontend frameworks. Strong focus on backend development, API design, authentication systems, and database integration. Comfortable working in fast-paced, collaborative development environments.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+- Python, JavaScript  
+
+**Backend**  
+- Django, Flask, Django REST Framework  
+- REST APIs, Authentication & RBAC  
+
+**Frontend**  
+- React.js, Angular  
+- HTML5, CSS3, Bootstrap, Tailwind CSS  
+
+**Databases**  
+- MySQL, SQLite3, MongoDB  
+
+**Tools**  
+- Git & GitHub  
+- Postman, VS Code  
+
+---
+
+## 📈 GitHub Activity
+
+- Focused on real-world projects and backend-heavy implementations  
+- Emphasis on clean code, structured commits, and continuous improvement  
+
+---
+
+## 📫 Contact
+
+- **Email:** rebinravindran534@gmail.com  
+- **GitHub:** https://github.com/rebinravindran  
+- **LinkedIn:** https://www.linkedin.com/in/rebinravindran/
+
+---
+
+Thanks for visiting my profile.
