@@ -11,35 +11,19 @@ Django • Django REST Framework • React • REST APIs
 
 ## 👨‍💻 Professional Summary
 
-Python Full Stack Developer with hands-on experience in building **secure, scalable, and performance-oriented web applications** using Django, Flask, REST APIs, and modern frontend frameworks. Strong focus on backend development, API design, authentication systems, and database integration. Comfortable working in fast-paced, collaborative development environments.
+Python Full Stack Developer with hands-on experience building **secure, scalable web applications** using Django, Flask, REST APIs, and modern frontend frameworks. Strong focus on backend development, API design, authentication systems, and database integration. Comfortable working in fast-paced, collaborative environments.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-- Python, JavaScript  
-
-**Backend**  
-- Django, Flask, Django REST Framework  
-- REST APIs, Authentication & RBAC  
-
-**Frontend**  
-- React.js, Angular  
-- HTML5, CSS3, Bootstrap, Tailwind CSS  
-
-**Databases**  
-- MySQL, SQLite3, MongoDB  
-
-**Tools**  
-- Git & GitHub  
-- Postman, VS Code  
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,js,react,angular,html,css,bootstrap,tailwind,mysql,sqlite,mongodb,git,github,postman,vscode)
 
 ---
 
 ## 📈 GitHub Activity
 
-- Focused on real-world projects and backend-heavy implementations  
+- Focused on real-world, backend-heavy implementations  
 - Emphasis on clean code, structured commits, and continuous improvement  
 
 ---
