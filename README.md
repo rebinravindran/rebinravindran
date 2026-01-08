@@ -3,9 +3,13 @@
 **Python Full Stack Developer**  
 Django • Django REST Framework • React • REST APIs
 
-📍 Kannur, Kerala, India  
-📧 rebinravindran534@gmail.com  
-🔗 https://www.linkedin.com/in/rebinravindran/
+---
+
+## 📫 Contact
+
+- **Email:** rebinravindran534@gmail.com  
+- **GitHub:** https://github.com/rebinravindran  
+- **LinkedIn:** https://www.linkedin.com/in/rebinravindran/
 
 ---
 
@@ -25,14 +29,6 @@ Python Full Stack Developer with hands-on experience building **secure, scalable
 
 - Focused on real-world, backend-heavy implementations  
 - Emphasis on clean code, structured commits, and continuous improvement  
-
----
-
-## 📫 Contact
-
-- **Email:** rebinravindran534@gmail.com  
-- **GitHub:** https://github.com/rebinravindran  
-- **LinkedIn:** https://www.linkedin.com/in/rebinravindran/
 
 ---
 
